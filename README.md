@@ -16,4 +16,4 @@ This repository contains **data analysis** for the **Chase Net Negative 2025 Cas
 ## **Getting Started**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo-url
+   git clone https://github.com/Adrriijs/Chase-Net-Negative.git
