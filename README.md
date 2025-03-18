@@ -12,8 +12,3 @@ This repository contains **data analysis** for the **Chase Net Negative 2025 Cas
 - Analyze CO₂ emissions data to compare **electric vs. petrol vehicles**.  
 - Identify potential **data inconsistencies** and ensure accuracy.  
 - Support **inset project recommendations** for reducing UBC’s Scope 3 emissions.  
-
-## **Getting Started**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Adrriijs/Chase-Net-Negative.git
